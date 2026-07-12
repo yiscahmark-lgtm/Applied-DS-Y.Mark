@@ -1,2 +1,2 @@
-# Applied-DS
-Repository of data science files for Applied DS Bellevue Course
+# Yiscah Mark
+Data Scientist | Data Analyst | 4.0 GPA
