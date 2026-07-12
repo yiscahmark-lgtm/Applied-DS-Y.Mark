@@ -2,7 +2,7 @@
  Yiscah Mark
 
 5 Fox Hill Rd, Spring Valley, NY 10977 | 914-705-9925 | Ymark@my365.bellevue.edu
-[View My Resume](<Yiscah Mark Data Science Resume.md>)
+[View My Resume](Resume.md)
 Review my full [Vehicle Valuation Project](Project1.md).
 
 Professional Summary:
