@@ -12,7 +12,8 @@ consistent high-performance in demanding technical environments. Paired with eag
 problem-solving, strong interpersonal skills, and articulate communication, these skills enable the delivery of impactful,
 data-driven narratives.
 
-Yiscah Mark - [Resume Classification Project](
+Yiscah Mark - [Resume Classification Project](notebooks/resumeclassnew (1).ipynb)
+
 
 Project Objectives: The point of this project was to create a program that ingests various resumes and correctly categorizes them into the appropriate categories. I used a very large dataset from Kaggle with many prelabeled resumes, so the program could train itself to recognize and sort various resumes.
 
